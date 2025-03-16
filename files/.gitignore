@@ -1,0 +1,21 @@
+# Rust specific
+target/
+**/*.rs.bk
+
+# If you have a Cargo.lock file, you might want to ignore it for libraries
+# Cargo.lock
+
+# If you use IDEs or editors, you might want to ignore their specific files
+# VS Code
+.vscode/
+*.code-workspace
+
+# Other IDEs
+.idea/
+*.iml
+
+# MacOS
+.DS_Store
+
+# Linux
+*.swp
